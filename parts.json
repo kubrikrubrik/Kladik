@@ -1,0 +1,5129 @@
+{
+ "characters": [
+  {
+   "id": "servant",
+   "title": "Ключник Прошка",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 330
+   },
+   "parts": [
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      100,
+      318
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "keys",
+     "parent": "body",
+     "pivot": [
+      121,
+      179
+     ],
+     "cls": "keys"
+    },
+    {
+     "key": "head",
+     "parent": "body",
+     "pivot": [
+      100,
+      113
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      89,
+      81
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      111,
+      81
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      100,
+      104
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      100,
+      104
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "arm-l",
+     "parent": "body",
+     "pivot": [
+      69,
+      129
+     ],
+     "cls": "arm arm-l"
+    },
+    {
+     "key": "arm-l-fore",
+     "parent": "arm-l",
+     "pivot": [
+      64,
+      175
+     ],
+     "cls": "fore"
+    },
+    {
+     "key": "held",
+     "parent": "arm-l-fore",
+     "pivot": null,
+     "cls": "prop held"
+    },
+    {
+     "key": "arm-r",
+     "parent": "body",
+     "pivot": [
+      69,
+      129
+     ],
+     "cls": "arm arm-r"
+    },
+    {
+     "key": "arm-r-fore",
+     "parent": "arm-r",
+     "pivot": [
+      64,
+      175
+     ],
+     "cls": "fore"
+    },
+    {
+     "key": "puff",
+     "parent": "body",
+     "pivot": null,
+     "cls": "prop puff"
+    },
+    {
+     "key": "spark",
+     "parent": "body",
+     "pivot": null,
+     "cls": "prop spark"
+    }
+   ],
+   "files": [
+    "ch-servant-base.webp",
+    "ch-servant-body.webp",
+    "ch-servant-keys.webp",
+    "ch-servant-head.webp",
+    "ch-servant-e-open.webp",
+    "ch-servant-e-sad.webp",
+    "ch-servant-e-sly.webp",
+    "ch-servant-e-closed.webp",
+    "ch-servant-e-happy.webp",
+    "ch-servant-e-wide.webp",
+    "ch-servant-e-x.webp",
+    "ch-servant-b-n.webp",
+    "ch-servant-b-s.webp",
+    "ch-servant-b-u.webp",
+    "ch-servant-b-a.webp",
+    "ch-servant-m-n.webp",
+    "ch-servant-m-s.webp",
+    "ch-servant-m-g.webp",
+    "ch-servant-m-sad.webp",
+    "ch-servant-m-o.webp",
+    "ch-servant-m-w.webp",
+    "ch-servant-m-t.webp",
+    "ch-servant-arm-l.webp",
+    "ch-servant-arm-l-fore.webp",
+    "ch-servant-held.webp",
+    "ch-servant-arm-r.webp",
+    "ch-servant-arm-r-fore.webp",
+    "ch-servant-puff.webp",
+    "ch-servant-spark.webp"
+   ]
+  },
+  {
+   "id": "treasurer",
+   "title": "Казначей Фома Счётович",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      160,
+      214
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "head",
+     "parent": "body",
+     "pivot": [
+      160,
+      112
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      148,
+      76
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      172,
+      76
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      160,
+      101
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      160,
+      101
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "pince",
+     "parent": "head",
+     "pivot": [
+      160,
+      77
+     ],
+     "cls": "pince"
+    },
+    {
+     "key": "arm-l",
+     "parent": "body",
+     "pivot": [
+      106,
+      132
+     ],
+     "cls": "arm arm-l"
+    },
+    {
+     "key": "arm-l-fore",
+     "parent": "arm-l",
+     "pivot": [
+      95,
+      170
+     ],
+     "cls": "fore"
+    },
+    {
+     "key": "quill",
+     "parent": "arm-l-fore",
+     "pivot": [
+      101,
+      204
+     ],
+     "cls": "quill"
+    },
+    {
+     "key": "arm-r",
+     "parent": "body",
+     "pivot": [
+      214,
+      132
+     ],
+     "cls": "arm arm-r"
+    },
+    {
+     "key": "arm-r-fore",
+     "parent": "arm-r",
+     "pivot": [
+      225,
+      168
+     ],
+     "cls": "fore"
+    },
+    {
+     "key": "puff",
+     "parent": "body",
+     "pivot": null,
+     "cls": "prop puff"
+    }
+   ],
+   "files": [
+    "ch-treasurer-base.webp",
+    "ch-treasurer-body.webp",
+    "ch-treasurer-head.webp",
+    "ch-treasurer-e-open.webp",
+    "ch-treasurer-e-sad.webp",
+    "ch-treasurer-e-sly.webp",
+    "ch-treasurer-e-closed.webp",
+    "ch-treasurer-e-happy.webp",
+    "ch-treasurer-e-wide.webp",
+    "ch-treasurer-e-x.webp",
+    "ch-treasurer-b-n.webp",
+    "ch-treasurer-b-s.webp",
+    "ch-treasurer-b-u.webp",
+    "ch-treasurer-b-a.webp",
+    "ch-treasurer-m-n.webp",
+    "ch-treasurer-m-s.webp",
+    "ch-treasurer-m-g.webp",
+    "ch-treasurer-m-sad.webp",
+    "ch-treasurer-m-o.webp",
+    "ch-treasurer-m-w.webp",
+    "ch-treasurer-m-t.webp",
+    "ch-treasurer-pince.webp",
+    "ch-treasurer-arm-l.webp",
+    "ch-treasurer-arm-l-fore.webp",
+    "ch-treasurer-quill.webp",
+    "ch-treasurer-arm-r.webp",
+    "ch-treasurer-arm-r-fore.webp",
+    "ch-treasurer-puff.webp"
+   ]
+  },
+  {
+   "id": "jester",
+   "title": "Шут Гороховый",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 330
+   },
+   "parts": [
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      100,
+      312
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "head",
+     "parent": "body",
+     "pivot": [
+      100,
+      114
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "h1",
+     "parent": "head",
+     "pivot": [
+      80,
+      66
+     ],
+     "cls": "horn h1"
+    },
+    {
+     "key": "h3",
+     "parent": "head",
+     "pivot": [
+      120,
+      66
+     ],
+     "cls": "horn h3"
+    },
+    {
+     "key": "h2",
+     "parent": "head",
+     "pivot": [
+      100,
+      56
+     ],
+     "cls": "horn h2"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      90,
+      85
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      110,
+      85
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      101,
+      104
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      101,
+      104
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "arm-l",
+     "parent": "body",
+     "pivot": [
+      71,
+      130
+     ],
+     "cls": "arm arm-l"
+    },
+    {
+     "key": "arm-l-fore",
+     "parent": "arm-l",
+     "pivot": [
+      67,
+      175
+     ],
+     "cls": "fore"
+    },
+    {
+     "key": "arm-r",
+     "parent": "body",
+     "pivot": [
+      71,
+      130
+     ],
+     "cls": "arm arm-r"
+    },
+    {
+     "key": "arm-r-fore",
+     "parent": "arm-r",
+     "pivot": [
+      67,
+      175
+     ],
+     "cls": "fore"
+    },
+    {
+     "key": "dagger-in-hand",
+     "parent": "arm-r-fore",
+     "pivot": null,
+     "cls": "held dagger-in-hand"
+    },
+    {
+     "key": "sweat",
+     "parent": "body",
+     "pivot": null,
+     "cls": "prop sweat"
+    }
+   ],
+   "files": [
+    "ch-jester-base.webp",
+    "ch-jester-body.webp",
+    "ch-jester-head.webp",
+    "ch-jester-h1.webp",
+    "ch-jester-h3.webp",
+    "ch-jester-h2.webp",
+    "ch-jester-e-open.webp",
+    "ch-jester-e-sad.webp",
+    "ch-jester-e-sly.webp",
+    "ch-jester-e-closed.webp",
+    "ch-jester-e-happy.webp",
+    "ch-jester-e-wide.webp",
+    "ch-jester-e-x.webp",
+    "ch-jester-b-n.webp",
+    "ch-jester-b-s.webp",
+    "ch-jester-b-u.webp",
+    "ch-jester-b-a.webp",
+    "ch-jester-m-n.webp",
+    "ch-jester-m-s.webp",
+    "ch-jester-m-g.webp",
+    "ch-jester-m-sad.webp",
+    "ch-jester-m-o.webp",
+    "ch-jester-m-w.webp",
+    "ch-jester-m-t.webp",
+    "ch-jester-arm-l.webp",
+    "ch-jester-arm-l-fore.webp",
+    "ch-jester-arm-r.webp",
+    "ch-jester-arm-r-fore.webp",
+    "ch-jester-dagger-in-hand.webp",
+    "ch-jester-sweat.webp"
+   ]
+  },
+  {
+   "id": "cook",
+   "title": "Повар Кузьма",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 260,
+    "h": 300
+   },
+   "parts": [
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      130,
+      244
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "head",
+     "parent": "body",
+     "pivot": [
+      130,
+      128
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      116,
+      82
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      144,
+      82
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      130,
+      112
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      130,
+      112
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "arm-l",
+     "parent": "body",
+     "pivot": [
+      76,
+      138
+     ],
+     "cls": "arm arm-l"
+    },
+    {
+     "key": "arm-l-fore",
+     "parent": "arm-l",
+     "pivot": [
+      64,
+      178
+     ],
+     "cls": "fore"
+    },
+    {
+     "key": "carrot",
+     "parent": "arm-l-fore",
+     "pivot": null,
+     "cls": "held carrot"
+    },
+    {
+     "key": "arm-r",
+     "parent": "body",
+     "pivot": [
+      76,
+      138
+     ],
+     "cls": "arm arm-r"
+    },
+    {
+     "key": "arm-r-fore",
+     "parent": "arm-r",
+     "pivot": [
+      64,
+      178
+     ],
+     "cls": "fore"
+    },
+    {
+     "key": "cleaver",
+     "parent": "arm-r-fore",
+     "pivot": null,
+     "cls": "held cleaver"
+    },
+    {
+     "key": "ladle",
+     "parent": "arm-r-fore",
+     "pivot": null,
+     "cls": "held ladle"
+    },
+    {
+     "key": "steam-puff",
+     "parent": "body",
+     "pivot": null,
+     "cls": "prop steam-puff"
+    }
+   ],
+   "files": [
+    "ch-cook-base.webp",
+    "ch-cook-body.webp",
+    "ch-cook-head.webp",
+    "ch-cook-e-open.webp",
+    "ch-cook-e-sad.webp",
+    "ch-cook-e-sly.webp",
+    "ch-cook-e-closed.webp",
+    "ch-cook-e-happy.webp",
+    "ch-cook-e-wide.webp",
+    "ch-cook-e-x.webp",
+    "ch-cook-b-n.webp",
+    "ch-cook-b-s.webp",
+    "ch-cook-b-u.webp",
+    "ch-cook-b-a.webp",
+    "ch-cook-m-n.webp",
+    "ch-cook-m-s.webp",
+    "ch-cook-m-g.webp",
+    "ch-cook-m-sad.webp",
+    "ch-cook-m-o.webp",
+    "ch-cook-m-w.webp",
+    "ch-cook-m-t.webp",
+    "ch-cook-arm-l.webp",
+    "ch-cook-arm-l-fore.webp",
+    "ch-cook-carrot.webp",
+    "ch-cook-arm-r.webp",
+    "ch-cook-arm-r-fore.webp",
+    "ch-cook-cleaver.webp",
+    "ch-cook-ladle.webp",
+    "ch-cook-steam-puff.webp"
+   ]
+  },
+  {
+   "id": "boyar-schetov",
+   "title": "Боярин schetov",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 360
+   },
+   "parts": [
+    {
+     "key": "shadow",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "shadow"
+    },
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "boot-b",
+     "parent": "body",
+     "pivot": [
+      100,
+      350
+     ],
+     "cls": "boot boot-b"
+    },
+    {
+     "key": "boot-f",
+     "parent": "body",
+     "pivot": [
+      50,
+      350
+     ],
+     "cls": "boot boot-f"
+    },
+    {
+     "key": "skirt",
+     "parent": "body",
+     "pivot": [
+      80,
+      346
+     ],
+     "cls": "skirt"
+    },
+    {
+     "key": "pelvis",
+     "parent": "body",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "pelvis"
+    },
+    {
+     "key": "torso",
+     "parent": "pelvis",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "torso"
+    },
+    {
+     "key": "arm-far",
+     "parent": "torso",
+     "pivot": [
+      63.8,
+      168
+     ],
+     "cls": "arm-far"
+    },
+    {
+     "key": "neck",
+     "parent": "torso",
+     "pivot": [
+      80,
+      158
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "head",
+     "parent": "neck",
+     "pivot": [
+      80,
+      150
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      66,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      84,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "hat",
+     "parent": "head",
+     "pivot": [
+      80,
+      104
+     ],
+     "cls": "hat"
+    },
+    {
+     "key": "arm",
+     "parent": "torso",
+     "pivot": [
+      96.2,
+      168
+     ],
+     "cls": "arm"
+    }
+   ],
+   "files": [
+    "ch-boyar-schetov-base.webp",
+    "ch-boyar-schetov-shadow.webp",
+    "ch-boyar-schetov-body.webp",
+    "ch-boyar-schetov-boot-b.webp",
+    "ch-boyar-schetov-boot-f.webp",
+    "ch-boyar-schetov-skirt.webp",
+    "ch-boyar-schetov-pelvis.webp",
+    "ch-boyar-schetov-torso.webp",
+    "ch-boyar-schetov-arm-far.webp",
+    "ch-boyar-schetov-neck.webp",
+    "ch-boyar-schetov-head.webp",
+    "ch-boyar-schetov-e-open.webp",
+    "ch-boyar-schetov-e-sad.webp",
+    "ch-boyar-schetov-e-sly.webp",
+    "ch-boyar-schetov-e-closed.webp",
+    "ch-boyar-schetov-e-happy.webp",
+    "ch-boyar-schetov-e-wide.webp",
+    "ch-boyar-schetov-e-x.webp",
+    "ch-boyar-schetov-b-n.webp",
+    "ch-boyar-schetov-b-s.webp",
+    "ch-boyar-schetov-b-u.webp",
+    "ch-boyar-schetov-b-a.webp",
+    "ch-boyar-schetov-m-n.webp",
+    "ch-boyar-schetov-m-s.webp",
+    "ch-boyar-schetov-m-g.webp",
+    "ch-boyar-schetov-m-sad.webp",
+    "ch-boyar-schetov-m-o.webp",
+    "ch-boyar-schetov-m-w.webp",
+    "ch-boyar-schetov-m-t.webp",
+    "ch-boyar-schetov-hat.webp",
+    "ch-boyar-schetov-arm.webp"
+   ]
+  },
+  {
+   "id": "boyar-puzatov",
+   "title": "Боярин puzatov",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 360
+   },
+   "parts": [
+    {
+     "key": "shadow",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "shadow"
+    },
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "boot-b",
+     "parent": "body",
+     "pivot": [
+      100,
+      350
+     ],
+     "cls": "boot boot-b"
+    },
+    {
+     "key": "boot-f",
+     "parent": "body",
+     "pivot": [
+      50,
+      350
+     ],
+     "cls": "boot boot-f"
+    },
+    {
+     "key": "skirt",
+     "parent": "body",
+     "pivot": [
+      80,
+      346
+     ],
+     "cls": "skirt"
+    },
+    {
+     "key": "pelvis",
+     "parent": "body",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "pelvis"
+    },
+    {
+     "key": "torso",
+     "parent": "pelvis",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "torso"
+    },
+    {
+     "key": "arm-far",
+     "parent": "torso",
+     "pivot": [
+      56.2,
+      168
+     ],
+     "cls": "arm-far"
+    },
+    {
+     "key": "neck",
+     "parent": "torso",
+     "pivot": [
+      80,
+      158
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "head",
+     "parent": "neck",
+     "pivot": [
+      80,
+      150
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      66,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      84,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "hat",
+     "parent": "head",
+     "pivot": [
+      80,
+      104
+     ],
+     "cls": "hat"
+    },
+    {
+     "key": "arm",
+     "parent": "torso",
+     "pivot": [
+      103.8,
+      168
+     ],
+     "cls": "arm"
+    }
+   ],
+   "files": [
+    "ch-boyar-puzatov-base.webp",
+    "ch-boyar-puzatov-shadow.webp",
+    "ch-boyar-puzatov-body.webp",
+    "ch-boyar-puzatov-boot-b.webp",
+    "ch-boyar-puzatov-boot-f.webp",
+    "ch-boyar-puzatov-skirt.webp",
+    "ch-boyar-puzatov-pelvis.webp",
+    "ch-boyar-puzatov-torso.webp",
+    "ch-boyar-puzatov-arm-far.webp",
+    "ch-boyar-puzatov-neck.webp",
+    "ch-boyar-puzatov-head.webp",
+    "ch-boyar-puzatov-e-open.webp",
+    "ch-boyar-puzatov-e-sad.webp",
+    "ch-boyar-puzatov-e-sly.webp",
+    "ch-boyar-puzatov-e-closed.webp",
+    "ch-boyar-puzatov-e-happy.webp",
+    "ch-boyar-puzatov-e-wide.webp",
+    "ch-boyar-puzatov-e-x.webp",
+    "ch-boyar-puzatov-b-n.webp",
+    "ch-boyar-puzatov-b-s.webp",
+    "ch-boyar-puzatov-b-u.webp",
+    "ch-boyar-puzatov-b-a.webp",
+    "ch-boyar-puzatov-m-n.webp",
+    "ch-boyar-puzatov-m-s.webp",
+    "ch-boyar-puzatov-m-g.webp",
+    "ch-boyar-puzatov-m-sad.webp",
+    "ch-boyar-puzatov-m-o.webp",
+    "ch-boyar-puzatov-m-w.webp",
+    "ch-boyar-puzatov-m-t.webp",
+    "ch-boyar-puzatov-hat.webp",
+    "ch-boyar-puzatov-arm.webp"
+   ]
+  },
+  {
+   "id": "boyar-trevogin",
+   "title": "Боярин trevogin",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 360
+   },
+   "parts": [
+    {
+     "key": "shadow",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "shadow"
+    },
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "boot-b",
+     "parent": "body",
+     "pivot": [
+      100,
+      350
+     ],
+     "cls": "boot boot-b"
+    },
+    {
+     "key": "boot-f",
+     "parent": "body",
+     "pivot": [
+      50,
+      350
+     ],
+     "cls": "boot boot-f"
+    },
+    {
+     "key": "skirt",
+     "parent": "body",
+     "pivot": [
+      80,
+      346
+     ],
+     "cls": "skirt"
+    },
+    {
+     "key": "pelvis",
+     "parent": "body",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "pelvis"
+    },
+    {
+     "key": "torso",
+     "parent": "pelvis",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "torso"
+    },
+    {
+     "key": "arm-far",
+     "parent": "torso",
+     "pivot": [
+      64.5,
+      168
+     ],
+     "cls": "arm-far"
+    },
+    {
+     "key": "neck",
+     "parent": "torso",
+     "pivot": [
+      80,
+      158
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "head",
+     "parent": "neck",
+     "pivot": [
+      80,
+      150
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      66,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      84,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "hat",
+     "parent": "head",
+     "pivot": [
+      80,
+      104
+     ],
+     "cls": "hat"
+    },
+    {
+     "key": "arm",
+     "parent": "torso",
+     "pivot": [
+      95.5,
+      168
+     ],
+     "cls": "arm"
+    }
+   ],
+   "files": [
+    "ch-boyar-trevogin-base.webp",
+    "ch-boyar-trevogin-shadow.webp",
+    "ch-boyar-trevogin-body.webp",
+    "ch-boyar-trevogin-boot-b.webp",
+    "ch-boyar-trevogin-boot-f.webp",
+    "ch-boyar-trevogin-skirt.webp",
+    "ch-boyar-trevogin-pelvis.webp",
+    "ch-boyar-trevogin-torso.webp",
+    "ch-boyar-trevogin-arm-far.webp",
+    "ch-boyar-trevogin-neck.webp",
+    "ch-boyar-trevogin-head.webp",
+    "ch-boyar-trevogin-e-open.webp",
+    "ch-boyar-trevogin-e-sad.webp",
+    "ch-boyar-trevogin-e-sly.webp",
+    "ch-boyar-trevogin-e-closed.webp",
+    "ch-boyar-trevogin-e-happy.webp",
+    "ch-boyar-trevogin-e-wide.webp",
+    "ch-boyar-trevogin-e-x.webp",
+    "ch-boyar-trevogin-b-n.webp",
+    "ch-boyar-trevogin-b-s.webp",
+    "ch-boyar-trevogin-b-u.webp",
+    "ch-boyar-trevogin-b-a.webp",
+    "ch-boyar-trevogin-m-n.webp",
+    "ch-boyar-trevogin-m-s.webp",
+    "ch-boyar-trevogin-m-g.webp",
+    "ch-boyar-trevogin-m-sad.webp",
+    "ch-boyar-trevogin-m-o.webp",
+    "ch-boyar-trevogin-m-w.webp",
+    "ch-boyar-trevogin-m-t.webp",
+    "ch-boyar-trevogin-hat.webp",
+    "ch-boyar-trevogin-arm.webp"
+   ]
+  },
+  {
+   "id": "boyar-radostin",
+   "title": "Боярин radostin",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 360
+   },
+   "parts": [
+    {
+     "key": "shadow",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "shadow"
+    },
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "boot-b",
+     "parent": "body",
+     "pivot": [
+      100,
+      350
+     ],
+     "cls": "boot boot-b"
+    },
+    {
+     "key": "boot-f",
+     "parent": "body",
+     "pivot": [
+      50,
+      350
+     ],
+     "cls": "boot boot-f"
+    },
+    {
+     "key": "skirt",
+     "parent": "body",
+     "pivot": [
+      80,
+      346
+     ],
+     "cls": "skirt"
+    },
+    {
+     "key": "pelvis",
+     "parent": "body",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "pelvis"
+    },
+    {
+     "key": "torso",
+     "parent": "pelvis",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "torso"
+    },
+    {
+     "key": "arm-far",
+     "parent": "torso",
+     "pivot": [
+      59.1,
+      168
+     ],
+     "cls": "arm-far"
+    },
+    {
+     "key": "neck",
+     "parent": "torso",
+     "pivot": [
+      80,
+      158
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "head",
+     "parent": "neck",
+     "pivot": [
+      80,
+      150
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      66,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      84,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "hat",
+     "parent": "head",
+     "pivot": [
+      80,
+      104
+     ],
+     "cls": "hat"
+    },
+    {
+     "key": "arm",
+     "parent": "torso",
+     "pivot": [
+      100.9,
+      168
+     ],
+     "cls": "arm"
+    }
+   ],
+   "files": [
+    "ch-boyar-radostin-base.webp",
+    "ch-boyar-radostin-shadow.webp",
+    "ch-boyar-radostin-body.webp",
+    "ch-boyar-radostin-boot-b.webp",
+    "ch-boyar-radostin-boot-f.webp",
+    "ch-boyar-radostin-skirt.webp",
+    "ch-boyar-radostin-pelvis.webp",
+    "ch-boyar-radostin-torso.webp",
+    "ch-boyar-radostin-arm-far.webp",
+    "ch-boyar-radostin-neck.webp",
+    "ch-boyar-radostin-head.webp",
+    "ch-boyar-radostin-e-open.webp",
+    "ch-boyar-radostin-e-sad.webp",
+    "ch-boyar-radostin-e-sly.webp",
+    "ch-boyar-radostin-e-closed.webp",
+    "ch-boyar-radostin-e-happy.webp",
+    "ch-boyar-radostin-e-wide.webp",
+    "ch-boyar-radostin-e-x.webp",
+    "ch-boyar-radostin-b-n.webp",
+    "ch-boyar-radostin-b-s.webp",
+    "ch-boyar-radostin-b-u.webp",
+    "ch-boyar-radostin-b-a.webp",
+    "ch-boyar-radostin-m-n.webp",
+    "ch-boyar-radostin-m-s.webp",
+    "ch-boyar-radostin-m-g.webp",
+    "ch-boyar-radostin-m-sad.webp",
+    "ch-boyar-radostin-m-o.webp",
+    "ch-boyar-radostin-m-w.webp",
+    "ch-boyar-radostin-m-t.webp",
+    "ch-boyar-radostin-hat.webp",
+    "ch-boyar-radostin-arm.webp"
+   ]
+  },
+  {
+   "id": "boyar-podpiskin",
+   "title": "Боярин podpiskin",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 360
+   },
+   "parts": [
+    {
+     "key": "shadow",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "shadow"
+    },
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "boot-b",
+     "parent": "body",
+     "pivot": [
+      100,
+      350
+     ],
+     "cls": "boot boot-b"
+    },
+    {
+     "key": "boot-f",
+     "parent": "body",
+     "pivot": [
+      50,
+      350
+     ],
+     "cls": "boot boot-f"
+    },
+    {
+     "key": "skirt",
+     "parent": "body",
+     "pivot": [
+      80,
+      346
+     ],
+     "cls": "skirt"
+    },
+    {
+     "key": "pelvis",
+     "parent": "body",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "pelvis"
+    },
+    {
+     "key": "torso",
+     "parent": "pelvis",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "torso"
+    },
+    {
+     "key": "arm-far",
+     "parent": "torso",
+     "pivot": [
+      62,
+      168
+     ],
+     "cls": "arm-far"
+    },
+    {
+     "key": "neck",
+     "parent": "torso",
+     "pivot": [
+      80,
+      158
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "head",
+     "parent": "neck",
+     "pivot": [
+      80,
+      150
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      66,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      84,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "hat",
+     "parent": "head",
+     "pivot": [
+      80,
+      104
+     ],
+     "cls": "hat"
+    },
+    {
+     "key": "arm",
+     "parent": "torso",
+     "pivot": [
+      98,
+      168
+     ],
+     "cls": "arm"
+    }
+   ],
+   "files": [
+    "ch-boyar-podpiskin-base.webp",
+    "ch-boyar-podpiskin-shadow.webp",
+    "ch-boyar-podpiskin-body.webp",
+    "ch-boyar-podpiskin-boot-b.webp",
+    "ch-boyar-podpiskin-boot-f.webp",
+    "ch-boyar-podpiskin-skirt.webp",
+    "ch-boyar-podpiskin-pelvis.webp",
+    "ch-boyar-podpiskin-torso.webp",
+    "ch-boyar-podpiskin-arm-far.webp",
+    "ch-boyar-podpiskin-neck.webp",
+    "ch-boyar-podpiskin-head.webp",
+    "ch-boyar-podpiskin-e-open.webp",
+    "ch-boyar-podpiskin-e-sad.webp",
+    "ch-boyar-podpiskin-e-sly.webp",
+    "ch-boyar-podpiskin-e-closed.webp",
+    "ch-boyar-podpiskin-e-happy.webp",
+    "ch-boyar-podpiskin-e-wide.webp",
+    "ch-boyar-podpiskin-e-x.webp",
+    "ch-boyar-podpiskin-b-n.webp",
+    "ch-boyar-podpiskin-b-s.webp",
+    "ch-boyar-podpiskin-b-u.webp",
+    "ch-boyar-podpiskin-b-a.webp",
+    "ch-boyar-podpiskin-m-n.webp",
+    "ch-boyar-podpiskin-m-s.webp",
+    "ch-boyar-podpiskin-m-g.webp",
+    "ch-boyar-podpiskin-m-sad.webp",
+    "ch-boyar-podpiskin-m-o.webp",
+    "ch-boyar-podpiskin-m-w.webp",
+    "ch-boyar-podpiskin-m-t.webp",
+    "ch-boyar-podpiskin-hat.webp",
+    "ch-boyar-podpiskin-arm.webp"
+   ]
+  },
+  {
+   "id": "boyar-dikovinov",
+   "title": "Боярин dikovinov",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 360
+   },
+   "parts": [
+    {
+     "key": "shadow",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "shadow"
+    },
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "boot-b",
+     "parent": "body",
+     "pivot": [
+      100,
+      350
+     ],
+     "cls": "boot boot-b"
+    },
+    {
+     "key": "boot-f",
+     "parent": "body",
+     "pivot": [
+      50,
+      350
+     ],
+     "cls": "boot boot-f"
+    },
+    {
+     "key": "skirt",
+     "parent": "body",
+     "pivot": [
+      80,
+      346
+     ],
+     "cls": "skirt"
+    },
+    {
+     "key": "pelvis",
+     "parent": "body",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "pelvis"
+    },
+    {
+     "key": "torso",
+     "parent": "pelvis",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "torso"
+    },
+    {
+     "key": "arm-far",
+     "parent": "torso",
+     "pivot": [
+      62.9,
+      168
+     ],
+     "cls": "arm-far"
+    },
+    {
+     "key": "neck",
+     "parent": "torso",
+     "pivot": [
+      80,
+      158
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "head",
+     "parent": "neck",
+     "pivot": [
+      80,
+      150
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      66,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      84,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "hat",
+     "parent": "head",
+     "pivot": [
+      80,
+      104
+     ],
+     "cls": "hat"
+    },
+    {
+     "key": "arm",
+     "parent": "torso",
+     "pivot": [
+      97.1,
+      168
+     ],
+     "cls": "arm"
+    }
+   ],
+   "files": [
+    "ch-boyar-dikovinov-base.webp",
+    "ch-boyar-dikovinov-shadow.webp",
+    "ch-boyar-dikovinov-body.webp",
+    "ch-boyar-dikovinov-boot-b.webp",
+    "ch-boyar-dikovinov-boot-f.webp",
+    "ch-boyar-dikovinov-skirt.webp",
+    "ch-boyar-dikovinov-pelvis.webp",
+    "ch-boyar-dikovinov-torso.webp",
+    "ch-boyar-dikovinov-arm-far.webp",
+    "ch-boyar-dikovinov-neck.webp",
+    "ch-boyar-dikovinov-head.webp",
+    "ch-boyar-dikovinov-e-open.webp",
+    "ch-boyar-dikovinov-e-sad.webp",
+    "ch-boyar-dikovinov-e-sly.webp",
+    "ch-boyar-dikovinov-e-closed.webp",
+    "ch-boyar-dikovinov-e-happy.webp",
+    "ch-boyar-dikovinov-e-wide.webp",
+    "ch-boyar-dikovinov-e-x.webp",
+    "ch-boyar-dikovinov-b-n.webp",
+    "ch-boyar-dikovinov-b-s.webp",
+    "ch-boyar-dikovinov-b-u.webp",
+    "ch-boyar-dikovinov-b-a.webp",
+    "ch-boyar-dikovinov-m-n.webp",
+    "ch-boyar-dikovinov-m-s.webp",
+    "ch-boyar-dikovinov-m-g.webp",
+    "ch-boyar-dikovinov-m-sad.webp",
+    "ch-boyar-dikovinov-m-o.webp",
+    "ch-boyar-dikovinov-m-w.webp",
+    "ch-boyar-dikovinov-m-t.webp",
+    "ch-boyar-dikovinov-hat.webp",
+    "ch-boyar-dikovinov-arm.webp"
+   ]
+  },
+  {
+   "id": "boyar-chekushkin",
+   "title": "Боярин chekushkin",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 360
+   },
+   "parts": [
+    {
+     "key": "shadow",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "shadow"
+    },
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "boot-b",
+     "parent": "body",
+     "pivot": [
+      100,
+      350
+     ],
+     "cls": "boot boot-b"
+    },
+    {
+     "key": "boot-f",
+     "parent": "body",
+     "pivot": [
+      50,
+      350
+     ],
+     "cls": "boot boot-f"
+    },
+    {
+     "key": "skirt",
+     "parent": "body",
+     "pivot": [
+      80,
+      346
+     ],
+     "cls": "skirt"
+    },
+    {
+     "key": "pelvis",
+     "parent": "body",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "pelvis"
+    },
+    {
+     "key": "torso",
+     "parent": "pelvis",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "torso"
+    },
+    {
+     "key": "arm-far",
+     "parent": "torso",
+     "pivot": [
+      60.6,
+      168
+     ],
+     "cls": "arm-far"
+    },
+    {
+     "key": "neck",
+     "parent": "torso",
+     "pivot": [
+      80,
+      158
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "head",
+     "parent": "neck",
+     "pivot": [
+      80,
+      150
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      66,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      84,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "hat",
+     "parent": "head",
+     "pivot": [
+      80,
+      104
+     ],
+     "cls": "hat"
+    },
+    {
+     "key": "arm",
+     "parent": "torso",
+     "pivot": [
+      99.4,
+      168
+     ],
+     "cls": "arm"
+    }
+   ],
+   "files": [
+    "ch-boyar-chekushkin-base.webp",
+    "ch-boyar-chekushkin-shadow.webp",
+    "ch-boyar-chekushkin-body.webp",
+    "ch-boyar-chekushkin-boot-b.webp",
+    "ch-boyar-chekushkin-boot-f.webp",
+    "ch-boyar-chekushkin-skirt.webp",
+    "ch-boyar-chekushkin-pelvis.webp",
+    "ch-boyar-chekushkin-torso.webp",
+    "ch-boyar-chekushkin-arm-far.webp",
+    "ch-boyar-chekushkin-neck.webp",
+    "ch-boyar-chekushkin-head.webp",
+    "ch-boyar-chekushkin-e-open.webp",
+    "ch-boyar-chekushkin-e-sad.webp",
+    "ch-boyar-chekushkin-e-sly.webp",
+    "ch-boyar-chekushkin-e-closed.webp",
+    "ch-boyar-chekushkin-e-happy.webp",
+    "ch-boyar-chekushkin-e-wide.webp",
+    "ch-boyar-chekushkin-e-x.webp",
+    "ch-boyar-chekushkin-b-n.webp",
+    "ch-boyar-chekushkin-b-s.webp",
+    "ch-boyar-chekushkin-b-u.webp",
+    "ch-boyar-chekushkin-b-a.webp",
+    "ch-boyar-chekushkin-m-n.webp",
+    "ch-boyar-chekushkin-m-s.webp",
+    "ch-boyar-chekushkin-m-g.webp",
+    "ch-boyar-chekushkin-m-sad.webp",
+    "ch-boyar-chekushkin-m-o.webp",
+    "ch-boyar-chekushkin-m-w.webp",
+    "ch-boyar-chekushkin-m-t.webp",
+    "ch-boyar-chekushkin-hat.webp",
+    "ch-boyar-chekushkin-arm.webp"
+   ]
+  },
+  {
+   "id": "boyar-letopiscev",
+   "title": "Боярин letopiscev",
+   "canvas": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 360
+   },
+   "parts": [
+    {
+     "key": "shadow",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "shadow"
+    },
+    {
+     "key": "body",
+     "parent": "base",
+     "pivot": [
+      80,
+      350
+     ],
+     "cls": "body"
+    },
+    {
+     "key": "boot-b",
+     "parent": "body",
+     "pivot": [
+      100,
+      350
+     ],
+     "cls": "boot boot-b"
+    },
+    {
+     "key": "boot-f",
+     "parent": "body",
+     "pivot": [
+      50,
+      350
+     ],
+     "cls": "boot boot-f"
+    },
+    {
+     "key": "skirt",
+     "parent": "body",
+     "pivot": [
+      80,
+      346
+     ],
+     "cls": "skirt"
+    },
+    {
+     "key": "pelvis",
+     "parent": "body",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "pelvis"
+    },
+    {
+     "key": "torso",
+     "parent": "pelvis",
+     "pivot": [
+      80,
+      262
+     ],
+     "cls": "torso"
+    },
+    {
+     "key": "arm-far",
+     "parent": "torso",
+     "pivot": [
+      61.6,
+      168
+     ],
+     "cls": "arm-far"
+    },
+    {
+     "key": "neck",
+     "parent": "torso",
+     "pivot": [
+      80,
+      158
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "head",
+     "parent": "neck",
+     "pivot": [
+      80,
+      150
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      66,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      84,
+      120
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      72,
+      144
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "hat",
+     "parent": "head",
+     "pivot": [
+      80,
+      104
+     ],
+     "cls": "hat"
+    },
+    {
+     "key": "arm",
+     "parent": "torso",
+     "pivot": [
+      98.4,
+      168
+     ],
+     "cls": "arm"
+    }
+   ],
+   "files": [
+    "ch-boyar-letopiscev-base.webp",
+    "ch-boyar-letopiscev-shadow.webp",
+    "ch-boyar-letopiscev-body.webp",
+    "ch-boyar-letopiscev-boot-b.webp",
+    "ch-boyar-letopiscev-boot-f.webp",
+    "ch-boyar-letopiscev-skirt.webp",
+    "ch-boyar-letopiscev-pelvis.webp",
+    "ch-boyar-letopiscev-torso.webp",
+    "ch-boyar-letopiscev-arm-far.webp",
+    "ch-boyar-letopiscev-neck.webp",
+    "ch-boyar-letopiscev-head.webp",
+    "ch-boyar-letopiscev-e-open.webp",
+    "ch-boyar-letopiscev-e-sad.webp",
+    "ch-boyar-letopiscev-e-sly.webp",
+    "ch-boyar-letopiscev-e-closed.webp",
+    "ch-boyar-letopiscev-e-happy.webp",
+    "ch-boyar-letopiscev-e-wide.webp",
+    "ch-boyar-letopiscev-e-x.webp",
+    "ch-boyar-letopiscev-b-n.webp",
+    "ch-boyar-letopiscev-b-s.webp",
+    "ch-boyar-letopiscev-b-u.webp",
+    "ch-boyar-letopiscev-b-a.webp",
+    "ch-boyar-letopiscev-m-n.webp",
+    "ch-boyar-letopiscev-m-s.webp",
+    "ch-boyar-letopiscev-m-g.webp",
+    "ch-boyar-letopiscev-m-sad.webp",
+    "ch-boyar-letopiscev-m-o.webp",
+    "ch-boyar-letopiscev-m-w.webp",
+    "ch-boyar-letopiscev-m-t.webp",
+    "ch-boyar-letopiscev-hat.webp",
+    "ch-boyar-letopiscev-arm.webp"
+   ]
+  },
+  {
+   "id": "boss-kupets",
+   "title": "Босс kupets",
+   "canvas": {
+    "x": -10,
+    "y": -12,
+    "w": 260,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "fig",
+     "parent": "base",
+     "pivot": [
+      120,
+      228
+     ],
+     "cls": "fig"
+    },
+    {
+     "key": "sack",
+     "parent": "fig",
+     "pivot": [
+      50,
+      226
+     ],
+     "cls": "sack"
+    },
+    {
+     "key": "belly",
+     "parent": "fig",
+     "pivot": [
+      120,
+      214
+     ],
+     "cls": "belly"
+    },
+    {
+     "key": "arm-rub",
+     "parent": "fig",
+     "pivot": [
+      80,
+      120
+     ],
+     "cls": "arm-rub"
+    },
+    {
+     "key": "head",
+     "parent": "fig",
+     "pivot": [
+      120,
+      106
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      107,
+      72
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      133,
+      72
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      120,
+      96
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      120,
+      96
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "arm-scale",
+     "parent": "fig",
+     "pivot": [
+      160,
+      110
+     ],
+     "cls": "arm-scale"
+    },
+    {
+     "key": "scales",
+     "parent": "fig",
+     "pivot": [
+      191,
+      70
+     ],
+     "cls": "scales"
+    },
+    {
+     "key": "p1",
+     "parent": "scales",
+     "pivot": [
+      154,
+      70
+     ],
+     "cls": "pan p1"
+    },
+    {
+     "key": "p2",
+     "parent": "scales",
+     "pivot": [
+      228,
+      70
+     ],
+     "cls": "pan p2"
+    },
+    {
+     "key": "stars",
+     "parent": "base",
+     "pivot": [
+      120,
+      22
+     ],
+     "cls": "stars"
+    }
+   ],
+   "files": [
+    "ch-boss-kupets-base.webp",
+    "ch-boss-kupets-fig.webp",
+    "ch-boss-kupets-sack.webp",
+    "ch-boss-kupets-belly.webp",
+    "ch-boss-kupets-arm-rub.webp",
+    "ch-boss-kupets-head.webp",
+    "ch-boss-kupets-e-open.webp",
+    "ch-boss-kupets-e-sad.webp",
+    "ch-boss-kupets-e-sly.webp",
+    "ch-boss-kupets-e-closed.webp",
+    "ch-boss-kupets-e-happy.webp",
+    "ch-boss-kupets-e-wide.webp",
+    "ch-boss-kupets-e-x.webp",
+    "ch-boss-kupets-b-n.webp",
+    "ch-boss-kupets-b-s.webp",
+    "ch-boss-kupets-b-u.webp",
+    "ch-boss-kupets-b-a.webp",
+    "ch-boss-kupets-m-n.webp",
+    "ch-boss-kupets-m-s.webp",
+    "ch-boss-kupets-m-g.webp",
+    "ch-boss-kupets-m-sad.webp",
+    "ch-boss-kupets-m-o.webp",
+    "ch-boss-kupets-m-w.webp",
+    "ch-boss-kupets-m-t.webp",
+    "ch-boss-kupets-arm-scale.webp",
+    "ch-boss-kupets-scales.webp",
+    "ch-boss-kupets-p1.webp",
+    "ch-boss-kupets-p2.webp",
+    "ch-boss-kupets-stars.webp"
+   ]
+  },
+  {
+   "id": "boss-zmey",
+   "title": "Босс zmey",
+   "canvas": {
+    "x": -10,
+    "y": -12,
+    "w": 260,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "fig",
+     "parent": "base",
+     "pivot": [
+      120,
+      228
+     ],
+     "cls": "fig"
+    },
+    {
+     "key": "tail",
+     "parent": "fig",
+     "pivot": [
+      166,
+      190
+     ],
+     "cls": "tail"
+    },
+    {
+     "key": "wings",
+     "parent": "fig",
+     "pivot": [
+      120,
+      124
+     ],
+     "cls": "wings"
+    },
+    {
+     "key": "n1",
+     "parent": "fig",
+     "pivot": [
+      104,
+      126
+     ],
+     "cls": "neck n1"
+    },
+    {
+     "key": "e-x-on",
+     "parent": "n1",
+     "pivot": null,
+     "cls": "e-x-on"
+    },
+    {
+     "key": "n3",
+     "parent": "fig",
+     "pivot": [
+      136,
+      126
+     ],
+     "cls": "neck n3"
+    },
+    {
+     "key": "e-x-on",
+     "parent": "n3",
+     "pivot": null,
+     "cls": "e-x-on"
+    },
+    {
+     "key": "n2",
+     "parent": "fig",
+     "pivot": [
+      120,
+      120
+     ],
+     "cls": "neck n2"
+    },
+    {
+     "key": "e-x-on",
+     "parent": "n2",
+     "pivot": null,
+     "cls": "e-x-on"
+    },
+    {
+     "key": "stars",
+     "parent": "base",
+     "pivot": [
+      120,
+      8
+     ],
+     "cls": "stars"
+    }
+   ],
+   "files": [
+    "ch-boss-zmey-base.webp",
+    "ch-boss-zmey-fig.webp",
+    "ch-boss-zmey-tail.webp",
+    "ch-boss-zmey-wings.webp",
+    "ch-boss-zmey-n1.webp",
+    "ch-boss-zmey-e-x-on.webp",
+    "ch-boss-zmey-n3.webp",
+    "ch-boss-zmey-n2.webp",
+    "ch-boss-zmey-stars.webp"
+   ]
+  },
+  {
+   "id": "boss-mytar",
+   "title": "Босс mytar",
+   "canvas": {
+    "x": -10,
+    "y": -12,
+    "w": 260,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "fig",
+     "parent": "base",
+     "pivot": [
+      120,
+      228
+     ],
+     "cls": "fig"
+    },
+    {
+     "key": "barrier",
+     "parent": "fig",
+     "pivot": [
+      42,
+      126
+     ],
+     "cls": "barrier"
+    },
+    {
+     "key": "ledger",
+     "parent": "fig",
+     "pivot": [
+      84,
+      144
+     ],
+     "cls": "ledger"
+    },
+    {
+     "key": "head",
+     "parent": "fig",
+     "pivot": [
+      120,
+      88
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      112,
+      56
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "e-open",
+     "parent": "head",
+     "pivot": [
+      128,
+      56
+     ],
+     "cls": "e e-open"
+    },
+    {
+     "key": "e-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sad"
+    },
+    {
+     "key": "e-sly",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-sly"
+    },
+    {
+     "key": "e-closed",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-closed"
+    },
+    {
+     "key": "e-happy",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-happy"
+    },
+    {
+     "key": "e-wide",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-wide"
+    },
+    {
+     "key": "e-x",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e e-x"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "b-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-n"
+    },
+    {
+     "key": "b-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-s"
+    },
+    {
+     "key": "b-u",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-u"
+    },
+    {
+     "key": "b-a",
+     "parent": "head",
+     "pivot": null,
+     "cls": "b b-a"
+    },
+    {
+     "key": "m-n",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-n"
+    },
+    {
+     "key": "m-s",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-s"
+    },
+    {
+     "key": "m-g",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-g"
+    },
+    {
+     "key": "m-sad",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-sad"
+    },
+    {
+     "key": "m-o",
+     "parent": "head",
+     "pivot": [
+      118,
+      78
+     ],
+     "cls": "m m-o"
+    },
+    {
+     "key": "m-w",
+     "parent": "head",
+     "pivot": null,
+     "cls": "m m-w"
+    },
+    {
+     "key": "m-t",
+     "parent": "head",
+     "pivot": [
+      118,
+      78
+     ],
+     "cls": "m m-t"
+    },
+    {
+     "key": "stamp-arm",
+     "parent": "fig",
+     "pivot": [
+      146,
+      110
+     ],
+     "cls": "stamp-arm"
+    },
+    {
+     "key": "stamp",
+     "parent": "stamp-arm",
+     "pivot": [
+      189,
+      70
+     ],
+     "cls": "stamp"
+    },
+    {
+     "key": "stars",
+     "parent": "base",
+     "pivot": [
+      120,
+      14
+     ],
+     "cls": "stars"
+    }
+   ],
+   "files": [
+    "ch-boss-mytar-base.webp",
+    "ch-boss-mytar-fig.webp",
+    "ch-boss-mytar-barrier.webp",
+    "ch-boss-mytar-ledger.webp",
+    "ch-boss-mytar-head.webp",
+    "ch-boss-mytar-e-open.webp",
+    "ch-boss-mytar-e-sad.webp",
+    "ch-boss-mytar-e-sly.webp",
+    "ch-boss-mytar-e-closed.webp",
+    "ch-boss-mytar-e-happy.webp",
+    "ch-boss-mytar-e-wide.webp",
+    "ch-boss-mytar-e-x.webp",
+    "ch-boss-mytar-b-n.webp",
+    "ch-boss-mytar-b-s.webp",
+    "ch-boss-mytar-b-u.webp",
+    "ch-boss-mytar-b-a.webp",
+    "ch-boss-mytar-m-n.webp",
+    "ch-boss-mytar-m-s.webp",
+    "ch-boss-mytar-m-g.webp",
+    "ch-boss-mytar-m-sad.webp",
+    "ch-boss-mytar-m-o.webp",
+    "ch-boss-mytar-m-w.webp",
+    "ch-boss-mytar-m-t.webp",
+    "ch-boss-mytar-stamp-arm.webp",
+    "ch-boss-mytar-stamp.webp",
+    "ch-boss-mytar-stars.webp"
+   ]
+  },
+  {
+   "id": "boss-kot",
+   "title": "Босс kot",
+   "canvas": {
+    "x": -10,
+    "y": -12,
+    "w": 260,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "fig",
+     "parent": "base",
+     "pivot": [
+      120,
+      228
+     ],
+     "cls": "fig"
+    },
+    {
+     "key": "tail",
+     "parent": "fig",
+     "pivot": [
+      164,
+      200
+     ],
+     "cls": "tail"
+    },
+    {
+     "key": "basket",
+     "parent": "fig",
+     "pivot": [
+      62,
+      184
+     ],
+     "cls": "basket"
+    },
+    {
+     "key": "paw",
+     "parent": "fig",
+     "pivot": [
+      160,
+      124
+     ],
+     "cls": "paw"
+    },
+    {
+     "key": "head",
+     "parent": "fig",
+     "pivot": [
+      120,
+      104
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "cateyes",
+     "parent": "head",
+     "pivot": [
+      120,
+      70
+     ],
+     "cls": "cateyes"
+    },
+    {
+     "key": "e-x-on",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e-x-on"
+    },
+    {
+     "key": "cathat",
+     "parent": "head",
+     "pivot": [
+      120,
+      40
+     ],
+     "cls": "cathat"
+    },
+    {
+     "key": "stars",
+     "parent": "base",
+     "pivot": [
+      120,
+      14
+     ],
+     "cls": "stars"
+    }
+   ],
+   "files": [
+    "ch-boss-kot-base.webp",
+    "ch-boss-kot-fig.webp",
+    "ch-boss-kot-tail.webp",
+    "ch-boss-kot-basket.webp",
+    "ch-boss-kot-paw.webp",
+    "ch-boss-kot-head.webp",
+    "ch-boss-kot-cateyes.webp",
+    "ch-boss-kot-e-x-on.webp",
+    "ch-boss-kot-cathat.webp",
+    "ch-boss-kot-stars.webp"
+   ]
+  },
+  {
+   "id": "boss-ulita",
+   "title": "Босс ulita",
+   "canvas": {
+    "x": -10,
+    "y": -12,
+    "w": 260,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "fig",
+     "parent": "base",
+     "pivot": [
+      120,
+      228
+     ],
+     "cls": "fig"
+    },
+    {
+     "key": "fig-foot",
+     "parent": "fig",
+     "pivot": [
+      210,
+      210
+     ],
+     "cls": "foot"
+    },
+    {
+     "key": "neck",
+     "parent": "fig",
+     "pivot": [
+      60,
+      200
+     ],
+     "cls": "neck"
+    },
+    {
+     "key": "s1",
+     "parent": "neck",
+     "pivot": [
+      57,
+      130
+     ],
+     "cls": "stalk s1"
+    },
+    {
+     "key": "s2",
+     "parent": "neck",
+     "pivot": [
+      69,
+      132
+     ],
+     "cls": "stalk s2"
+    },
+    {
+     "key": "shell",
+     "parent": "fig",
+     "pivot": [
+      144,
+      194
+     ],
+     "cls": "shell"
+    },
+    {
+     "key": "flag",
+     "parent": "shell",
+     "pivot": [
+      168,
+      76
+     ],
+     "cls": "flag"
+    },
+    {
+     "key": "stars",
+     "parent": "base",
+     "pivot": [
+      64,
+      60
+     ],
+     "cls": "stars"
+    }
+   ],
+   "files": [
+    "ch-boss-ulita-base.webp",
+    "ch-boss-ulita-fig.webp",
+    "ch-boss-ulita-fig-foot.webp",
+    "ch-boss-ulita-neck.webp",
+    "ch-boss-ulita-s1.webp",
+    "ch-boss-ulita-s2.webp",
+    "ch-boss-ulita-shell.webp",
+    "ch-boss-ulita-flag.webp",
+    "ch-boss-ulita-stars.webp"
+   ]
+  },
+  {
+   "id": "boss-koschey",
+   "title": "Босс koschey",
+   "canvas": {
+    "x": -10,
+    "y": -12,
+    "w": 260,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "fig",
+     "parent": "base",
+     "pivot": [
+      120,
+      228
+     ],
+     "cls": "fig"
+    },
+    {
+     "key": "cloak",
+     "parent": "fig",
+     "pivot": [
+      120,
+      184
+     ],
+     "cls": "cloak"
+    },
+    {
+     "key": "head",
+     "parent": "fig",
+     "pivot": [
+      120,
+      84
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-x-on",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e-x-on"
+    },
+    {
+     "key": "crown",
+     "parent": "head",
+     "pivot": [
+      120,
+      30
+     ],
+     "cls": "crown"
+    },
+    {
+     "key": "hands",
+     "parent": "fig",
+     "pivot": [
+      120,
+      140
+     ],
+     "cls": "hands"
+    },
+    {
+     "key": "chest",
+     "parent": "fig",
+     "pivot": [
+      120,
+      228
+     ],
+     "cls": "chest"
+    },
+    {
+     "key": "stars",
+     "parent": "base",
+     "pivot": [
+      120,
+      4
+     ],
+     "cls": "stars"
+    }
+   ],
+   "files": [
+    "ch-boss-koschey-base.webp",
+    "ch-boss-koschey-fig.webp",
+    "ch-boss-koschey-cloak.webp",
+    "ch-boss-koschey-head.webp",
+    "ch-boss-koschey-e-x-on.webp",
+    "ch-boss-koschey-crown.webp",
+    "ch-boss-koschey-hands.webp",
+    "ch-boss-koschey-chest.webp",
+    "ch-boss-koschey-stars.webp"
+   ]
+  },
+  {
+   "id": "boss-yaga",
+   "title": "Босс yaga",
+   "canvas": {
+    "x": -10,
+    "y": -12,
+    "w": 260,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "fig",
+     "parent": "base",
+     "pivot": [
+      120,
+      214
+     ],
+     "cls": "fig"
+    },
+    {
+     "key": "fly",
+     "parent": "fig",
+     "pivot": [
+      120,
+      214
+     ],
+     "cls": "fly"
+    },
+    {
+     "key": "broom",
+     "parent": "fly",
+     "pivot": [
+      150,
+      160
+     ],
+     "cls": "broom"
+    },
+    {
+     "key": "head",
+     "parent": "fly",
+     "pivot": [
+      120,
+      106
+     ],
+     "cls": "head"
+    },
+    {
+     "key": "e-x-on",
+     "parent": "head",
+     "pivot": null,
+     "cls": "e-x-on"
+    },
+    {
+     "key": "pestle-arm",
+     "parent": "fly",
+     "pivot": [
+      138,
+      112
+     ],
+     "cls": "pestle-arm"
+    },
+    {
+     "key": "stars",
+     "parent": "base",
+     "pivot": [
+      120,
+      36
+     ],
+     "cls": "stars"
+    }
+   ],
+   "files": [
+    "ch-boss-yaga-base.webp",
+    "ch-boss-yaga-fig.webp",
+    "ch-boss-yaga-fly.webp",
+    "ch-boss-yaga-broom.webp",
+    "ch-boss-yaga-head.webp",
+    "ch-boss-yaga-e-x-on.webp",
+    "ch-boss-yaga-pestle-arm.webp",
+    "ch-boss-yaga-stars.webp"
+   ]
+  },
+  {
+   "id": "boss-chudo",
+   "title": "Босс chudo",
+   "canvas": {
+    "x": -10,
+    "y": -12,
+    "w": 260,
+    "h": 250
+   },
+   "parts": [
+    {
+     "key": "beast",
+     "parent": "base",
+     "pivot": [
+      120,
+      236
+     ],
+     "cls": "beast"
+    },
+    {
+     "key": "jaw",
+     "parent": "beast",
+     "pivot": [
+      112,
+      166
+     ],
+     "cls": "jaw"
+    },
+    {
+     "key": "e-x-on",
+     "parent": "beast",
+     "pivot": null,
+     "cls": "e-x-on"
+    },
+    {
+     "key": "spout",
+     "parent": "beast",
+     "pivot": [
+      196,
+      68
+     ],
+     "cls": "spout"
+    },
+    {
+     "key": "stars",
+     "parent": "base",
+     "pivot": [
+      124,
+      92
+     ],
+     "cls": "stars"
+    }
+   ],
+   "files": [
+    "ch-boss-chudo-base.webp",
+    "ch-boss-chudo-beast.webp",
+    "ch-boss-chudo-jaw.webp",
+    "ch-boss-chudo-e-x-on.webp",
+    "ch-boss-chudo-spout.webp",
+    "ch-boss-chudo-stars.webp"
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "treasury",
+   "file": "art-treasury.webp"
+  },
+  {
+   "id": "office",
+   "file": "art-office.webp"
+  },
+  {
+   "id": "stage",
+   "file": "art-stage.webp"
+  },
+  {
+   "id": "duma",
+   "file": "art-duma.webp"
+  },
+  {
+   "id": "kitchen",
+   "file": "art-kitchen.webp"
+  }
+ ]
+}
